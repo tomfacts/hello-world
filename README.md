@@ -1,4 +1,7 @@
 hello-world
 ===========
 
-The First Repository
+The First 
+Hello again world.
+Physics and Computers are fun.
+
